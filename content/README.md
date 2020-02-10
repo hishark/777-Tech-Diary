@@ -1,5 +1,4 @@
 # 777 Tech Diary
 
-Created By Gitbook
+![image-20200210172948521](/Users/a777/Library/Application Support/typora-user-images/image-20200210172948521.png)
 
-🔗 [hishark.cc](hishark.cc)
