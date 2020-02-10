@@ -1,4 +1,4 @@
 # 777 Tech Diary
 
-![image-20200210172948521](/Users/a777/Library/Application Support/typora-user-images/image-20200210172948521.png)
+<img src="https://raw.githubusercontent.com/hishark/PicRepo/master/img/20200210173343.png"/>
 
