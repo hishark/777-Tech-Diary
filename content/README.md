@@ -1,6 +1,10 @@
 # 777 Tech Diary
 
-小旮旯 记点技术 记些琐碎
+一个乱七八糟的仓库
 
-<img src="https://raw.githubusercontent.com/hishark/PicRepo/master/img/20200210173343.png"/>
+好好学习
+
+好好睡觉
+
+<img src="https://i.loli.net/2020/03/06/kH2KOhBy6MgET4F.jpg" width=""/>
 
