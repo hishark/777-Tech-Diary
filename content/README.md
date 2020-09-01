@@ -1,6 +1,6 @@
 # 777 Tech Diary
 
-> 已迁移至[Notion](https://www.notion.so/xiaoqizhang/9893e81be0b1448e891bb3222da5f6c5?v=cebd2be7c48b49a38d396ccb38ea096e)
+> 已迁移至[BLOG](https://hishark777.com/categories/%E6%8A%80%E6%9C%AF%E6%97%A5%E8%AE%B0/)
 
 一个乱七八糟的仓库
 
